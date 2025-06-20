@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zisong Wang"
-description              : "currently working as an Algorithm Engineer. Main responsibility is 3D reconstruction without CAD drawings. I have solid experience in multi-sensor fusion. "
+description              : "Currently working as an Algorithm Engineer. Main responsibility is 3D reconstruction without CAD drawings. "
 repository               : "wzs-go/zisongwang-homepage"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zisong Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Graduated from: University of Chinese Academy of Sciences"
+  bio              : "Graduated: University of Chinese Academy of Sciences"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Shanghai BOCHU Electronic Technology Co., Ltd."
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=dFOGaOgAAAAJ"
   email            : "zisongwang1997@gmail.com"
